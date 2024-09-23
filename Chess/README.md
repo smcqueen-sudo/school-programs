@@ -1,7 +1,7 @@
 # Chess Game in C++ (OOP)
 
 ## Overview
-This project is a simple implementation of the game of Chess, developed using **C++** with an emphasis on **Object-Oriented Programming (OOP)** principles. It includes basic functionalities of a chess game, such as piece movement, capturing, and check detection. The program is designed with extensibility in mind, allowing for further features to be added, such as checkmate and stalemate detection or graphical interfaces.
+This project is a simple implementation of the game of Chess, developed using **C++** with an emphasis on **Object-Oriented Programming (OOP)** principles. It includes basic functionalities of a chess game, such as piece movement, capturing, and score calculation. The program is designed with extensibility in mind, allowing for further features to be added, such as checkmate and stalemate detection or graphical interfaces.
 
 ## Features
 - Basic chess game with a text-based interface
@@ -29,7 +29,7 @@ Each chess piece (Pawn, Rook, Knight, Bishop, Queen, King) inherits from the bas
 
 
 ## Future Enhancements
-- Add checkmate and stalemate detection
+- Add check, checkmate, and stalemate detection
 - Implement graphical user interface (GUI)
 - Add a feature for saving and loading games
 - Enhance AI for single-player mode
